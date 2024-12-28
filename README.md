@@ -1,4 +1,4 @@
-# HackerRank Problem Solve Repository
+# HackerRank Problem Solve
 
 Welcome to the **HackerRank Problem Solve** repository! 🎯 This repository contains solutions to various coding challenges from HackerRank, organized by topics and difficulty levels.
 
