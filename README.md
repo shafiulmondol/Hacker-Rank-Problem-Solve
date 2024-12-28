@@ -73,7 +73,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 If you have any questions or suggestions, feel free to reach out:
 
 - **Repository Owner**: [Shafiul-p](https://github.com/Shafiul-p)
-- **Email**: [your-email@example.com]
+-  - **HackerRank Profile**: [mdshafiulmondol1](https://www.hackerrank.com/profile/mdshafiulmondol1)
+- **Email**: mdshafiulmondol02@gmail.com
 
 ---
 
